@@ -32,18 +32,6 @@ This application is a simple user management system with a Go backend API and a 
 - Go (for local development)
 - Node.js and npm (for local frontend development)
 
-## Project Structure
-
-```
-.
-├── backend/
-│   ├── main.go
-│   └── go.dockerfile
-├── client/
-│   └── next.dockerfile
-├── docker-compose.yml
-└── README.md
-```
 
 ## Getting Started
 
