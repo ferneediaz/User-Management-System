@@ -7,7 +7,6 @@ This repository contains a fullstack application with a Go backend, Next.js fron
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
 - [Docker Compose Configuration](#docker-compose-configuration)
